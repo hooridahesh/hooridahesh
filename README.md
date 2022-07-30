@@ -27,17 +27,12 @@
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 
 ### <p align="left"><img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/nerd-face.png" width="27px"> I am somewhat familiar with these tools and technologies:</p>
-<img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo">
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo">
-<img width="38px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python logo">
-<img width="47px" src="https://img.icons8.com/color/344/git.png" alt="Git logo">
-<img width="34px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop logo">
-<img width="42px" src="https://img.icons8.com/color/452/html-5--v1.png" alt="Html logo">
-<img width="42px" src="https://img.icons8.com/color/452/css3.png" alt="Css logo">
+<a href="https://skillicons.dev">
+<img width="365px" src="https://skillicons.dev/icons?i=c,cpp,python,git,photoshop,html,css">
+<a/>
 <br><br>
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-
 
 </div>
