@@ -5,7 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/hooridahesh?color=%230984e3&logo=github)
 ![GitHub watchers](https://img.shields.io/github/watchers/hooridahesh/hooridahesh?color=%234cd137&label=Profile%20views%20&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/hooridahesh?color=%23ef5777&logo=github)
+<!--![GitHub User's stars](https://img.shields.io/github/stars/hooridahesh?color=%23ef5777&logo=github)-->
 
 <!--<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=hooridahesh&style=flat&color=4cd137&logo=github">-->
 
