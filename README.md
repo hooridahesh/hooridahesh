@@ -20,7 +20,6 @@
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 <img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-<br><br>
 
 ### <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/nerd-face.png" width="27px"> I am somewhat familiar with these tools and technologies:
 <img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo">
