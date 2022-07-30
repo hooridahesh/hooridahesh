@@ -29,6 +29,10 @@
 <img width="34px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop logo">
 <img width="42px" src="https://img.icons8.com/color/452/html-5--v1.png" alt="Html logo">
 <img width="42px" src="https://img.icons8.com/color/452/css3.png" alt="Css logo">
+<br><br>
+<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
+<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
+<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 
 
 </div>
