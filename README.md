@@ -20,17 +20,13 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooridahesh&langs_count=8&theme=algolia)](https://github.com/hooridahesh/hooridahesh)-->
 <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooridahesh&show_icons=true&locale=en&layout=compact&theme=algolia">
 <br><br>
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
+<img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 
 ### <p align="left"><img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/nerd-face.png" width="27px"> I am somewhat familiar with these tools and technologies:</p>
 <a href="https://skillicons.dev">
 <img width="365px" src="https://skillicons.dev/icons?i=c,cpp,python,git,photoshop,html,css">
 <a/>
 <br><br>
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
-<img width="225px"  src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
+<img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
 
 </div>
