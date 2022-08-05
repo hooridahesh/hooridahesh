@@ -13,7 +13,7 @@
 
 <!--<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=hooridahesh&style=flat&color=4cd137&logo=github">-->
 
-<img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg"><img width="230px" src="https://s6.uupload.ir/files/untitled-1_fd1p.jpg">
+<img width="150px" src="https://s6.uupload.ir/files/git_8bsd.jpg"><img width="150px" src="https://s6.uupload.ir/files/git_8bsd.jpg"><img width="150px" src="https://s6.uupload.ir/files/git_8bsd.jpg"><img width="150px" src="https://s6.uupload.ir/files/git_8bsd.jpg"><img width="150px" src="https://s6.uupload.ir/files/git_8bsd.jpg">
 
 ### <p align="left"><img src="https://img.icons8.com/glyph-neue/452/github.png" width="25px"> Git statistics:</p>
 <img width="412px" src="https://github-readme-stats.vercel.app/api?username=hooridahesh&show_icons=true&theme=algolia">
