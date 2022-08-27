@@ -19,6 +19,7 @@
 <img width="412px" src="https://github-readme-stats.vercel.app/api?username=hooridahesh&show_icons=true&theme=algolia">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooridahesh&langs_count=8&theme=algolia)](https://github.com/hooridahesh/hooridahesh)-->
 <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooridahesh&show_icons=true&locale=en&layout=compact&theme=algolia">
+<img width="758px" src="https://activity-graph.herokuapp.com/graph?username=hooridahesh&bg_color=010b26&color=23b7fe&line=33f1f3&point=ffffff&area=true&hide_border=true"/>
 <br><br>
 <img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg">
 
