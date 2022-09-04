@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=006fe0&text=Welcome&fontAlignY=32&textColor=white)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=0042ff&text=Welcome&fontAlignY=28&fontColor=ffffff&fontSize=40)
 
 <!--<img width="140px" src="https://img.shields.io/badge/welcome-1abedb.svg?style=flat&logo=github&color=040471">-->
 <div align="center">
@@ -34,4 +34,4 @@
 
 </div>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=040471&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=0042ff&section=footer)
