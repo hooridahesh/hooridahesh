@@ -1,4 +1,6 @@
-<img width="140px" src="https://img.shields.io/badge/welcome-1abedb.svg?style=flat&logo=github&color=040471">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=006fe0&text=Welcome&fontAlignY=32&textColor=white)
+
+<!--<img width="140px" src="https://img.shields.io/badge/welcome-1abedb.svg?style=flat&logo=github&color=040471">-->
 <div align="center">
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px, height=30px />, I am hoori <img src="https://c.tenor.com/eT_e-q0D5xoAAAAC/long-livethe-blob-sunglasses.gif" width=30px, height=30px />
@@ -31,3 +33,5 @@
 <img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg">
 
 </div>
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=040471&section=footer)
