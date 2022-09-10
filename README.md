@@ -17,7 +17,7 @@
 
 <img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg">
 
-### <p align="left">📊⚡🔥✔Git statistics:</p>
+### <p align="left">⚡Git statistics:</p>
 <img width="412px" src="https://github-readme-stats.vercel.app/api?username=hooridahesh&show_icons=true&theme=algolia">
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooridahesh&langs_count=8&theme=algolia)](https://github.com/hooridahesh/hooridahesh)-->
 <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooridahesh&show_icons=true&locale=en&layout=compact&theme=algolia">
@@ -25,7 +25,7 @@
 <br><br>
 <img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg"><img width="132px" src="https://s6.uupload.ir/files/git_frr7.jpg">
 
-### <p align="left">👩‍💻I am somewhat familiar with these tools and technologies:</p>
+### <p align="left">⚡I am somewhat familiar with these tools and technologies:</p>
 <a href="https://skillicons.dev">
 <img width="365px" src="https://skillicons.dev/icons?i=c,cpp,python,git,photoshop,html,css">
 <a/>
