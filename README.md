@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/hoori-dahesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="125px"></a>
 <a href="https://t.me/hooridahesh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" width="131px"></a>
 <a href="mailto:h.dahesh.2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="98px"></a>
-<a href=""><img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white" width="103px"></a>
+<a href=""><img src="https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white" width="102px"></a>
 </div>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=130&color=031852&section=footer)
